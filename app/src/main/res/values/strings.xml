@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="song_name">Song Name</string>
+    <string name="todo">TODO</string>
+    <string name="button">Button</string>
+    <string name="search">Search</string>
+</resources>
